@@ -1,14 +1,14 @@
 Contributors:
 
-[Your first name optional but recammended] ]your last name optional but recammended] [Your Username required]
+[Your FirstName and LastName optional but recammended] [Your Username required]
 
-[FirstName optional] [Lastname optional] [Username required]
+[FirstName and LastName optional] [Username required]
 
 Copyright holders:
 
 Copyright [yyyy] [name of copyright owner]
 
-Copyright [yyyy] [Your first name and last]
+Copyright [yyyy] [Your FirstName and LastName]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
